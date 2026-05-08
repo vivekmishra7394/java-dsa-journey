@@ -1,1 +1,3 @@
 # java-dsa-journey
+
+PrimeNumber
