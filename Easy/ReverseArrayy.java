@@ -1,3 +1,4 @@
+package java_dsa_journey.Easy;
 public class ReverseArrayy {
     public static void main(String[] args) {
         int arr [] = {32,43,45,56,65,65,67,6767};

@@ -1,3 +1,4 @@
+package java_dsa_journey.Easy;
 public class PrintNUmbers1 {
     public static void main(String[] args) {
         int     muulltipy 

@@ -1,3 +1,4 @@
+package java_dsa_journey.Easy;
 public class CountEvenNumbers {
     
     public static void main(String[] args) {

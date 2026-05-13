@@ -1,3 +1,4 @@
+package java_dsa_journey.Easy;
 public class SumOfDigits {
     public static void main(String[] args) {
         

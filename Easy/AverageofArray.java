@@ -1,3 +1,5 @@
+
+package java_dsa_journey.Easy;
 public class AverageofArray {
     public static void main(String[] args) {
         int arr[] = {5,56,56,6465,7768,87,65,546,45,32324,324,324,235,34,54,4};

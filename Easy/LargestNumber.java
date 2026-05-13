@@ -1,3 +1,4 @@
+package java_dsa_journey.Easy;
 public class LargestNumber {
     public static void main(String[] args) {
         int arr [] = {35,56,65,6576,6,66,7,5,5778,6,6,6,6,68,68};

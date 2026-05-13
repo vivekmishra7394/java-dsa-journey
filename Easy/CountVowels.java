@@ -1,4 +1,4 @@
-public class CountVowels {
+package java_dsa_journey.Easy;public class CountVowels {
     public static void main(String[] args) {
         String fruit = "apple";
 int count =0;

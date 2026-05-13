@@ -1,3 +1,4 @@
+package java_dsa_journey.Easy;
 public class RepeatedNumbersInArray {
     public static void main(String[] args) {
         int arr [] = {234,3,243,5656,7,67,7,6};

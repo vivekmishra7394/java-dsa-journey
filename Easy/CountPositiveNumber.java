@@ -1,4 +1,5 @@
-public class CountPositiveNumber {
+
+package java_dsa_journey.Easy;public class CountPositiveNumber {
     public static void main(String[] args) {
         int arr [] = {-1,4,5,-6,2,54,-23};
 int countPositive = 0;

@@ -1,3 +1,4 @@
+package java_dsa_journey.Easy;
 public class SecondLargestNumber {
     public static void main(String[] args) {
         int arr [] = {4,3,5456,67,68,57};
