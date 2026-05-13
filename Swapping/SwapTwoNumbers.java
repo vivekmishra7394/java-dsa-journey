@@ -1,5 +1,4 @@
-// package java-dsa-journey.SwapTwoNumbers;
-
+package java_dsa_journey.Swapping;
 public class SwapTwoNumbers {
     public static void main(String[] args) {
         int a = 10;
